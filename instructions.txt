@@ -1,0 +1,15 @@
+Please note that to run this code in my prefered editor VSCODE, there are a few steps you will need to follow.
+
+1. Open the project in VSCODE, and open a terminal (ensure that you are in the correct directory)
+2. Enter the following commands:
+
+    python3 -m venv env
+
+    source env/bin/activate
+
+    pip install --upgrade pip
+
+    pip install pandas
+    
+    pip install matplotlib
+
